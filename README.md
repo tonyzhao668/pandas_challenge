@@ -78,8 +78,6 @@ The final report should include each of the following:
 
 ![Education](Images/pycityschools.PNG)
 
-Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
-
 To analyze the district-wide standardized test results. Given access to every student's math and reading scores, as well as various information on the schools they attend. The job is to aggregate the data to and showcase obvious trends in school performance.
 
 The final report should include each of the following:
